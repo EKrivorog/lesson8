@@ -76,6 +76,7 @@ public class Main
             linesCounter ++;
             if (linesCounter == maxLines)
                 break;
+
         }
 
         System.out.println(Arrays.asList(lines));
